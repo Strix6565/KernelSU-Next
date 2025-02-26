@@ -2,5 +2,5 @@
 
 ## How to add
 ```
-curl -LSs "https://raw.githubusercontent.com/Strix6565/KernelSU/susfs-155/kernel/setup.sh" | bash -s Susfs-155
+curl -LSs "https://raw.githubusercontent.com/Strix6565/KernelSU/susfs-155/kernel/setup.sh" | bash -s susfs-155
 ```
